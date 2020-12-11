@@ -1,0 +1,1 @@
+Replaces the basic kernal with supermon 64
